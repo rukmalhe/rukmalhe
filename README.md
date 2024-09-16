@@ -1,6 +1,8 @@
+- <img align="centre" width="658" alt="Screenshot 2024-09-16 at 1 27 01 PM" src="https://github.com/user-attachments/assets/67535469-a5b3-40ac-8373-63f4c17a7810">
+
 ## Hi there 👋
 - My key focus is enabling seamless CI/CD pipelines that integrate automated tests at every stage of the development lifecycle, leveraging my expertise in Java, Python, AWS Code commit, Azure Pipelines and various test automation tools like Junit, Selenium, TestNG, Playwright, Rest Assured. With a deep understanding of both functional and non-functional testing principles, I aim to elevate software quality, optimize testing processes, and reduce time to market.
-- <img width="658" alt="Screenshot 2024-09-16 at 1 27 01 PM" src="https://github.com/user-attachments/assets/67535469-a5b3-40ac-8373-63f4c17a7810">
+
 
 <!--
 **rukmalhe/rukmalhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
