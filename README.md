@@ -4,7 +4,10 @@
 
 
 ## Hi there 👋
-- My key focus is enabling seamless CI/CD pipelines that integrate automated tests at every stage of the development lifecycle, leveraging my expertise in Java, Python, AWS Code commit, Azure Pipelines and various test automation tools like Junit, Selenium, TestNG, Playwright, Rest Assured. With a deep understanding of both functional and non-functional testing principles, I aim to elevate software quality, optimize testing processes, and reduce time to market.
+
+- My key focus is enabling **seamless CI/CD pipelines** that integrate **automated tests** at every stage of the development lifecycle, leveraging my expertise in **Java**, **Python**, **AWS CodeCommit**, **Azure Pipelines**, and various **test automation tools** like **JUnit**, **Selenium**, **TestNG**, **Playwright**, and **Rest Assured**.  
+- With a deep understanding of both **functional** and **non-functional testing principles**, I aim to **elevate software quality**, **optimize testing processes**, and **reduce time to market**.
+
 
 
 <!--
