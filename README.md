@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="658" alt="Screenshot 2024-09-16 at 1 27 01 PM" src="https://github.com/user-attachments/assets/67535469-a5b3-40ac-8373-63f4c17a7810">
-</div>
-
 
 ## Hi there 👋
 
